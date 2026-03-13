@@ -1,14 +1,11 @@
 # Hey 👋 I'm Mohammad Kaif
-
 ### Final-Year B.Tech (AI & ML) | Aspiring Data Analyst
-
 I analyze data to find business insights that drive decisions.
 Currently seeking a **fresher Data Analyst role** in Delhi NCR / Tier-1 cities.
 
 ---
 
 ## 🔍 What I Do
-
 - Analyze large datasets using **SQL, Python, and Excel**
 - Build interactive dashboards in **Power BI**
 - Turn raw data into actionable business insights
@@ -28,15 +25,15 @@ Currently seeking a **fresher Data Analyst role** in Delhi NCR / Tier-1 cities.
 - West region led with **$725K revenue**; Technology margin at **15.6%**
 - 🔗 [View Project](https://github.com/mohdkaif3002/sales-business-analysis)
 
-### 📋 Job Market Analytics Dashboard *(In Progress)*
-- Analyzing **10,000+ job postings** for DA roles
-- Building 4-page interactive dashboard in **Power BI**
-- SQL & Python appear in **~78% of DA postings**
+### 📋 Job Market Analytics Dashboard
+- Analyzed **14,199 job postings** across 74 countries using Python, Excel & Power BI
+- Senior roles average **$163K+**; US dominates hiring with only **32.2% remote** jobs
+- Built interactive Power BI dashboard with KPI cards, map, slicers & donut chart
+- 🔗 [View Project](https://github.com/mohdkaif3002/job-market-analytics)
 
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages:** SQL · Python  
 **Libraries:** Pandas · NumPy · Matplotlib · Seaborn  
 **Tools:** Power BI · Excel · Jupyter Notebook · Git · SQLite  
