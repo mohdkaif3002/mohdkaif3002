@@ -27,14 +27,14 @@ kaif = {
     "location" : "Delhi, India",
     "seeking"  : ["Data Analyst", "Business Analyst", "ML Engineer"],
     "strengths": ["SQL", "Python", "Power BI", "Machine Learning"],
-    "datasets" : "100K+ records across 4 end-to-end projects",
+    "datasets" : "150,000+ records across 4 end-to-end projects",
     "status"   : "Open to work ✅"
 }
 ```
 
 ---
 
-### 📊 Project Metrics at a Glance
+### 🔢 Project Metrics at a Glance
 
 <div align="center">
 
@@ -63,8 +63,8 @@ kaif = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
 
-- 30,000 shipment records, 24 features
-- XGBoost delay prediction: **85.6% recall**
+- Analyzed 30,000 shipment records across 24 features
+- XGBoost achieved **85.6% recall** for delay prediction
 - Live multi-page analytics dashboard
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/Smart_logistics_Analytics)
@@ -81,7 +81,7 @@ kaif = {
 
 - 100,000+ orders across 9 relational tables
 - CTEs, Window Functions, JOINs
-- Found **96.88%** one-time buyers — retention risk
+- Found **96.88%** one-time buyers — critical retention risk
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/ecommerce-sql-analysis)
 
@@ -98,7 +98,7 @@ kaif = {
 
 - 14,199 job postings across 74 countries
 - Senior roles avg **$163K+**
-- Python & SQL = highest-demand skills
+- Python & SQL identified as highest-demand skills
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/job-market-analytics)
 
@@ -142,16 +142,13 @@ kaif = {
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Currently
 
-<div align="center">
+- 🔍 Actively seeking Data Analyst / Business Analyst / ML Engineer roles
+- 📍 Open to Delhi NCR, Tier-1 cities, and remote opportunities
+- 📬 Reach me at mohdkaif3002@gmail.com
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohdkaif3002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdkaif3002&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 
