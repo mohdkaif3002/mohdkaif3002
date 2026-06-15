@@ -57,6 +57,24 @@ kaif = {
 <tr>
 <td width="50%" valign="top">
 
+**🚀 India Startup Funding Intelligence**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+- 3,215 startup funding records (2015–2024) via custom ETL pipeline
+- XGBoost classifier achieving **77.29% accuracy** for funding prediction
+- REST API with 6 endpoints, auto-documented via Swagger
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/india-startup-intelligence)
+[![Live](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://india-startup-intelligence.streamlit.app)
+[![API](https://img.shields.io/badge/Live%20API-009688?style=flat&logo=fastapi&logoColor=white)](https://india-startup-intelligence-production.up.railway.app/docs)
+
+</td>
+<td width="50%" valign="top">
+
 **🚚 Logistics & Supply Chain Platform**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -71,6 +89,8 @@ kaif = {
 [![Live](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://smartlogisticsanalytics.streamlit.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🛒 E-Commerce SQL Analysis**
@@ -86,8 +106,6 @@ kaif = {
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/ecommerce-sql-analysis)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📋 Job Market Analytics Dashboard**
@@ -103,24 +121,8 @@ kaif = {
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/job-market-analytics)
 
 </td>
-<td width="50%" valign="top">
-
-**📈 Sales & Business Performance Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
-
-- 9,994 retail transactions analyzed
-- West region: **$725K** revenue
-- Technology category: **15.6%** profit margin
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/sales-business-analysis)
-
-</td>
 </tr>
 </table>
-
 ---
 
 ### 🛠️ Tech Stack
