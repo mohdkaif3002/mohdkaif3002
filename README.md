@@ -14,7 +14,6 @@ B.Tech CSE (AI & ML) · DIT University · Delhi NCR, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-kaif-4b45b6290)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdkaif3002@gmail.com)
-[![Live App](https://img.shields.io/badge/Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://india-startup-intelligence.streamlit.app)
 
 </div>
 
