@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86C1&height=120&section=header&text=Mohammad%20Kaif&fontSize=42&fontColor=ffffff&fontAlignY=70&desc=AI%2FML%20Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Python%20%26%20SQL&descSize=16&descAlignY=88&descColor=cce4f7" />
+# Mohammad Kaif
+
+**AI/ML Developer • Python • SQL • Data Analytics**
+
+B.Tech CSE (AI & ML) · DIT University · Delhi NCR, India
 
 </div>
 
@@ -137,9 +141,3 @@ kaif = {
 - 📬 Reach me at mohdkaif3002@gmail.com
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1F4E79&height=80&section=footer"/>
-
-</div>
