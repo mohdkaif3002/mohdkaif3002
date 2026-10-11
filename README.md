@@ -2,37 +2,30 @@
 
 # Mohammad Kaif
 
-**AI/ML Developer • Python • SQL • Data Analytics**
+**Data Analytics • SQL • Python • ML & API Development**
 
-B.Tech CSE (AI & ML) · DIT University · Delhi NCR, India
-
-</div>
-
-<br/>
-
-<div align="center">
+2026 B.Tech CSE (AI & ML) graduate · DIT University · Delhi NCR, India · Open to fresher roles across major Indian cities and remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-kaif-4b45b6290)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdkaif3002@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdkaif3002@gmail.com)
 
 </div>
 
 ---
 
-### 👤 About Me
+### 👋 About
 
-I build ML models and analytics that end up as working, deployed apps: from data cleaning and SQL analysis to XGBoost models, REST APIs, and dashboards.
+I build analytics and ML that end up as working, deployed apps: SQL analysis and dashboards that answer business questions, XGBoost models, REST APIs, and web apps.
 
 ```python
 kaif = {
     "degree"   : "B.Tech CSE (AI & ML), DIT University, 2026",
-    "location" : "Delhi NCR, India",
     "tracks"   : {
-        "ML / Software": ["Python", "XGBoost", "Scikit-learn", "FastAPI", "Streamlit", "LangChain"],
-        "Data / Analytics": ["SQL", "Pandas", "Power BI", "Excel"],
+        "Data / Analytics": ["SQL (BigQuery, SQLite)", "Pandas", "Power BI", "Excel"],
+        "ML / Software"   : ["Python", "XGBoost", "Scikit-learn", "FastAPI", "Streamlit", "JavaScript"],
     },
     "learning" : ["PyTorch", "RAG (FAISS)", "Docker"],
-    "status"   : "Open to fresher roles across major Indian cities and remote"
+    "status"   : "Open to fresher roles: data analytics, AI/ML development, software engineering"
 }
 ```
 
@@ -40,103 +33,58 @@ kaif = {
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 📊 Revenue & Churn Intelligence · `SQL` `BigQuery` `Python` `Excel` `Power BI`
+**Question:** which customers drive repeat revenue, and which are about to churn?
+- Real GA4 e-commerce data (4,400 purchasing customers) analysed with BigQuery SQL
+- Repeat buyers are **11.4%** of customers but bring **25.3%** of revenue; **88.6%** of first-time buyers never return
+- **44%** of previously repeat buyers went silent mid-period; **$76,994** (84% of repeat-buyer revenue) sits with customers silent 30+ days
+- Rule-based RFM segmentation, Excel stakeholder summary, 4-visual Power BI dashboard
 
-**🚀 India Startup Funding Intelligence** `ML` `API`
+[Code](https://github.com/mohdkaif3002/revenue-churn-intelligence)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-- Pipeline unifying 3 Kaggle datasets into 3,215 funding records (2015–2024)
-- XGBoost classifier evaluated with a startup-level split to avoid leakage (**ROC-AUC 0.72**)
+#### 🚀 India Startup Funding Intelligence · `ML` `API` `Python` `FastAPI` `XGBoost` `Streamlit`
+- Unified 3 Kaggle datasets into 3,215 funding records (2015–2024)
+- XGBoost classifier on a startup-grouped split to avoid leakage (ROC-AUC 0.72, F1 0.52)
 - FastAPI REST API (6 endpoints, Swagger docs) on Railway + live Streamlit dashboard
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/india-startup-intelligence)
-[![Live](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://india-startup-intelligence.streamlit.app)
-[![API](https://img.shields.io/badge/Live%20API-009688?style=flat&logo=fastapi&logoColor=white)](https://india-startup-intelligence-production.up.railway.app/docs)
+[Code](https://github.com/mohdkaif3002/india-startup-intelligence) · [Live App](https://india-startup-intelligence.streamlit.app) · [Live API](https://india-startup-intelligence-production.up.railway.app/docs)
 
-</td>
-<td width="50%" valign="top">
+#### 🩺 OPDesk (Prescription Pilot) · `FastAPI` `SQLite` `JavaScript`
+Clinic/prescription web app for doctors, built to replace paper prescriptions. Currently at pilot stage.
+- Patient records, vitals, diagnosis, bilingual (English/Hindi) prescriptions
+- Prints onto the doctor's own letterhead; doctor login, patient search, prescription repeat/edit
 
-**🚚 Smart Logistics Analytics System** `ML` `Dashboard`
+[Live Demo](https://opdesk.onrender.com/) · [Code](https://github.com/mohdkaif3002/OPDesk)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
-
-- Capstone (team of 3): 30,000 synthetic shipments across 15 Indian routes
-- XGBoost + SMOTE delay predictor with **85.6% recall**, plus a route recommender
-- Live multi-page Streamlit app
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/Smart_logistics_Analytics)
-[![Live](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://smartlogisticsanalytics.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛒 E-Commerce SQL Analysis** `SQL` `Analytics`
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+#### 🛒 E-Commerce SQL Analysis · `SQL` `SQLite` `Python`
 - 100,000+ Olist orders across 9 relational tables
 - CTEs, window functions (LAG, RANK), JOINs
-- Found **96.88%** one-time buyers, a major retention gap
+- Found **96.88%** one-time buyers despite 20x revenue growth, a major retention gap
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/ecommerce-sql-analysis)
+[Code](https://github.com/mohdkaif3002/ecommerce-sql-analysis)
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>More projects</b></summary>
 
-**📋 Job Market Analytics Dashboard** `Analytics` `Power BI`
+- **Smart Logistics Analytics System**: capstone (team of 3). XGBoost + SMOTE delay predictor (85.6% recall) on 30,000 synthetic shipments, plus a route recommender. [Code](https://github.com/mohdkaif3002/Smart_logistics_Analytics) · [Live](https://smartlogisticsanalytics.streamlit.app/)
+- **Job Market Analytics Dashboard**: 14,199 data science postings across 74 countries, Power BI dashboard + 5 EDA charts. [Code](https://github.com/mohdkaif3002/job-market-analytics)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-- 14,199 data science job postings across 74 countries
-- Senior roles average $163K+ vs about $90K for entry level
-- Interactive Power BI dashboard plus 5 EDA charts
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/mohdkaif3002/job-market-analytics)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
+| Area | Tools |
+|---|---|
+| **Data / Analytics** | SQL (CTEs, window functions, BigQuery), Excel, Power BI (DAX), Pandas, Seaborn, Cohort & RFM analysis |
+| **ML / Software** | Python, Scikit-learn, XGBoost, FastAPI, Streamlit, JavaScript |
+| **Tools** | Git, GitHub, SQLite, Jupyter, Google Colab, Railway |
 
 ---
 
 ### 🎯 Currently
 
-- 🔍 Looking for fresher roles in **AI/ML development, data analytics, or software engineering**
+- 🔍 Looking for fresher roles in **data analytics, AI/ML development, or software engineering**
 - 📚 Learning PyTorch and RAG pipelines
-- 📬 Reach me at mohdkaif3002@gmail.com
-
----
+- 📬 mohdkaif3002@gmail.com
